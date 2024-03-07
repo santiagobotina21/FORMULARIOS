@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;1,300;1,400&display=swap');
+
+body {
+
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+}
+
+
+h2{
+    margin: 2rem 10rem 0 10rem;
+    text-align: center;
+}
+
+h3{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.header {
+    background-color: #183454; /* Color de fondo personalizado */
+  }
+  
+.header .header-brand img {
+    width: 180px; /* Tamaño de logo personalizado */
+    margin: 1rem 0 1rem 0;
+  }
+
+.form label{
+    margin-top: 1.5rem
+}
+
+.form-check-input {
+    margin-bottom: 20px; 
+}
+
+.hidden {
+    display: none;
+}
+
+.navbar{
+    background-color: #183454; 
+    margin-top: 1rem;
+    justify-content:center;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.table th {
+    background-color: #183454;
+    color: #f8f4f4;
+    text-align: center;
+    font-weight: lighter; 
+}
+
+.table {
+    border: 1px solid #ccc; 
+    border-collapse: collapse;    
+}
+
+.table th,
+.table td {
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+.opciones {
+    text-align: center;
+    vertical-align: middle; 
+}
+
+.opciones button {
+    margin: 1rem;
+}
+
+.mi-lista {
+    display: none;
+  }
+
+
+
+
+
+
